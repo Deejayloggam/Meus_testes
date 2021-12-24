@@ -1,6 +1,6 @@
 def mmc(iteravel):
     """
-    recebe um iterável
+    recebe um iterável (números)
     retorna o minimo multiplo comum
     """
     contador = 0
@@ -17,7 +17,7 @@ def mmc(iteravel):
 
 def mdc(iteravel):
     """
-    recebe um iterável (somente com números)
+    recebe um iterável (números)
     retorna o máximo divisor comum entre os mesmos
     """
     divisor = int
